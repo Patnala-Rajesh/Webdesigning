@@ -14,3 +14,8 @@
    1. mangoes
    2. Banana
    3. Oranges
+
+* Vegetables
+   * Tomatoes
+   * Ginger
+   * Onions
