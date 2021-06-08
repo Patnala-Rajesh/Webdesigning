@@ -27,3 +27,8 @@
 Name | Number
 -----|-------
 Rajesh|8247471246
+
+```Python
+def python ():
+  Print (Hai)
+```
